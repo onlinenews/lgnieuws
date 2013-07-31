@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/lg-optimus-g-pro-nu-verkrijgbaar-in-nederland-en-belgi.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-31</news:publication_date>
+   <news:title>LG Optimus G Pro nu verkrijgbaar in Nederland en België</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/lg-phablet-nu-ook-in-nederland-uitgebracht.html</loc>
 <lastmod>2013-07-31</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-07-31</news:publication_date>
    <news:title>LG-phablet nu ook in Nederland uitgebracht</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/lg-optimus-g-pro-kopen-nu-ook-in-nederland.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-31</news:publication_date>
+   <news:title>LG Optimus G Pro kopen nu ook in Nederland</news:title>
 </news:news>
 </url>
 <url>
