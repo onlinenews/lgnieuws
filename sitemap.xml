@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/aw-hangout-46-lg-g2-en-motorola-moto-x.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>AW Hangout 46: LG G2 en Motorola Moto X</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/eerste-ervaring-met-lg-g2.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
