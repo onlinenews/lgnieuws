@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/lg-geeft-hdtv-retrolook-mee.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-12</news:publication_date>
+   <news:title>LG geeft hdtv retrolook mee</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/aw-bits-12-08-lgs-pr-stunt-mislukt-reclamecampagne-htc-galaxy-note-iii-met-.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
