@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/20-gewonden-bij-pr-stunt-voor-nieuwe-lg-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-13</news:publication_date>
+   <news:title>20 gewonden bij PR-stunt voor nieuwe LG-smartphone</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/20-gewonden-bij-lg-promo-event.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
