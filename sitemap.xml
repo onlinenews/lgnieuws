@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.lgnieuws.com/</loc>
-<lastmod>2013-08-13</lastmod>
+<lastmod>2013-08-14</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/lg-komt-met-lg-vu-3-heeft-52-inch-scherm.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-14</news:publication_date>
+   <news:title>‘LG komt met LG Vu 3, heeft 5,2 inch-scherm’</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.lgnieuws.com/gerucht-lg-vu-iii-krijgt-snapdragon-800-soc-en-52-scherm.html</loc>
