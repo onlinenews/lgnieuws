@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/nexus-5-snapdragon-800-52-inch-scherm-en-glazen-achterkant.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-16</news:publication_date>
+   <news:title>'Nexus 5: Snapdragon 800, 5.2 inch-scherm en glazen achterkant'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/nexus-5-is-lg-g2-met-snapdragon-800.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
