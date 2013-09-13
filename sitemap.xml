@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/nederlander-wint-prijs-bij-lg-nobels-met-koeienonderzoek.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-13</news:publication_date>
+   <news:title>Nederlander wint prijs bij lg Nobels met koeienonderzoek</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/nexus-5-gespot-op-verschillende-fotos.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-13</news:publication_date>
+   <news:title>Nexus 5 gespot op verschillende foto's</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/nexus-5-duikt-op-in-fcc-fotos-toestel-gemaakt-door-lg.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
