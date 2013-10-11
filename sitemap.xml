@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/android-44-krijgt-kleurrijker-en-transparanter-design.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-11</news:publication_date>
+   <news:title>'Android 4.4 krijgt kleurrijker en transparanter design'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/lg-stelt-sdk-beschikbaar-voor-quickremote-app.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-11</news:publication_date>
+   <news:title>LG stelt sdk beschikbaar voor QuickRemote-app</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/lg-g-pro-lite-aangekondigd.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
