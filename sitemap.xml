@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/nexus-5-en-android-kitkat-44-laten-zich-uitgebreid-zien-in-video.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-13</news:publication_date>
+   <news:title>Nexus 5 en Android Kitkat 4.4 laten zich uitgebreid zien in video</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/nieuwe-video-zou-prototype-nexus-5-tonen.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
