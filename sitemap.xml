@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/lg-komt-in-november-met-gebogen-telefoon-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-14</news:publication_date>
+   <news:title>'LG komt in november met gebogen telefoon'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/lg-komt-in-november-met-gebogen-telefoon.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +47,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-10-14</news:publication_date>
    <news:title>LG G Flex persrender gelekt</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/eerste-beelden-gebogen-lg-smartphone-g-flex.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-14</news:publication_date>
+   <news:title>Eerste beelden gebogen LG-smartphone G-Flex</news:title>
 </news:news>
 </url>
 <url>
