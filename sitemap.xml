@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.lgnieuws.com/</loc>
-<lastmod>2013-10-15</lastmod>
+<lastmod>2013-10-16</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/lg-g2-review-imposante-topper-met-verrassingen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-16</news:publication_date>
+   <news:title>LG G2 review: imposante topper met verrassingen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/lg-verslaat-de-iphone-in-de-vs.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-16</news:publication_date>
+   <news:title>LG verslaat de iPhone in de VS</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.lgnieuws.com/hoe-kan-ik-deel-uitmaken-van-een-team.html</loc>
