@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/nexus-5-smartphone-prijzen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-03</news:publication_date>
+   <news:title>Nexus 5 smartphone prijzen</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/mobiel-fotograferen-met-de-lg-nexus-5.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
