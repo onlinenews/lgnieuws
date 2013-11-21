@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.lgnieuws.com/</loc>
-<lastmod>2013-11-20</lastmod>
+<lastmod>2013-11-21</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.lgnieuws.com/lg-verlegt-zijn-focus-van-smartphones-naar-tvs.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-21</news:publication_date>
+   <news:title>'LG verlegt zijn focus van smartphones naar tv's'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.lgnieuws.com/brightday2-lg-curved-oled-uber-en-surface-2.html</loc>
