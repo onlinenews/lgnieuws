@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.lgnieuws.com/gerucht-focus-lg-weg-van-smartphones.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>LG Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-26</news:publication_date>
+   <news:title>Gerucht: focus LG weg van smartphones</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.lgnieuws.com/lg-g-flex-version-2-said-to-have-bendable-frame-can-be-tweaked-to-90-degree.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
